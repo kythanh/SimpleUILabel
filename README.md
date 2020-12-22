@@ -1,2 +1,2 @@
 # SimpleUILabel
-SimpleUILabel that just simply inherits UILabel
+SimpleUILabel that just simply inherits UILabel.
